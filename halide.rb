@@ -1,8 +1,8 @@
 class Halide < Formula
   desc "The Halide image processing language"
   homepage "http://halide-lang.org"
-  url "https://github.com/halide/Halide/releases/download/release_2016_10_25/halide-mac-64-trunk-aa5d5514f179bf0ffe1a2dead0c0eb7300b4069a.tgz"
-  version "2016.10.25"
+  url "https://github.com/halide/Halide/releases/download/release_2017_10_30/halide-mac-64-trunk-3af238615667312dcb46607752e3ae5d0ec5d713.tgz"
+  version "2017.10.30"
   sha256 "7cc502ebeabd1890f9ab12c186e59745c9f524ce74b325931103ef7a1136ca2a"
 
   def install
